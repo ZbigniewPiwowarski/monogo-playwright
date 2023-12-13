@@ -58,5 +58,8 @@ describe("Main Monogo webpage", () => {
     await commonPage.clickUpButton();
     await commonPage.expectUpButtonNotVisible();
     await commonPage.expectNaszaOfertaButtonVisible();
+
+    // test
+    // test
   });
 });
